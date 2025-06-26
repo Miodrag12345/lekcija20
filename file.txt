@@ -1,0 +1,17 @@
+sta cemo uciniti u 20 lekciji :
+1.Constructor
+2.Static
+3.My Sql i OOP kroz primere
+
+Vezba 1
+Napraviti folder models
+Napraviti klasu i file User:
+atributi su :email,sifra;
+Vezba 2:
+1.Napraviti product file i klasu unutar models foldera
+2.Product treba imati atribute:
+1)ime,opis,cena,slika,kolicina
+ Domaci zadatak:
+1)Napraviti model koji se zove baza
+2)Atributi  koje klasa ima:"konekcija"
+3)Kada se pozove construct napraviti konekciju  ka bazi i staviti varijablu konekcija
